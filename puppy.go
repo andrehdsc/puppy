@@ -22,12 +22,12 @@ func BigBarks() string {
 }
 
 // versions testing
-func ver11() {
+func Ver11() {
 	fmt.Println("This is version v1.1.0")
 }
-func ver12() {
+func Ver12() {
 	fmt.Println("This is version v1.2.0")
 }
-func ver13() {
+func Ver13() {
 	fmt.Println("This is version v1.3.0")
 }
